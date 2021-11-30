@@ -1,0 +1,301 @@
+{
+    "header": {
+        "navlinks": {
+            "Brand": {
+                "name": "Culture Dapp." 
+            },
+            "Dashboard": {
+                "name": "Tableau de bord"
+            },
+            "Login": {
+                "name": "S'identifier"
+            },
+            "Logout": {
+                "name": "Se déconnecter"
+            },
+            "Signup": {
+                "name": "S'inscrire"
+            },
+            "Courses": {
+                "name": "Cours"
+            },
+            "Contact": {
+                "name": "Nous contacter"
+            }
+        }
+    },
+    "sideNavLinks": {
+        "dashboard": "Tableau de bord",
+        "all_courses": "liste Cours",
+        "course_requests": "Demandes de cours",
+        "enrolled_courses": "Cours inscrits",
+        "listUsers": "liste",
+        "createUsers": "Créer",
+        "listCourses": "liste",
+        "createCourse": "Créer",
+        "courseRequests": "Demandes de cours",
+        "listQuiz": "liste Quiz",
+        "createQuiz": "Créer",
+        "quiz": "Quiz",
+        "course": "Cours",
+        "users": "Utilisatrices",
+        "navigation": "La navigation"
+    },
+    "Footer": {
+        "brand": "Culture Dapp.",
+        "text": "is a Registered MSP/ISO, Inc. Pakistan",
+        "allReserved": "All right Reserved."
+    },
+    "CoursePage": {
+        "Buttons": {
+            "cancel": "Cancel",
+            "submit": "Submit",
+            "startLearning": "Start Learning",
+            "enrollNow": "Enroll Now",
+            "requestSubmitted": "Request Submitted",
+            "requestToAccess": "Request To Access"
+        },
+        "Headings": {
+            "videoModalTitle": "Lecture Video",
+            "requestModalTitle": "Request To Access Course",
+            "sectionDescription": "Section Description",
+            "free": "Free"
+        },
+        "Form": {
+            "subject": "Subject",
+            "subjectPlaceholder": "Request Subject",
+            "requestDescription": "Request Description",
+            "note": "Note",
+            "noteText": "Request sent to the admin. You'll be notified on dashbaord your request accepted or decline."
+        }
+    },
+    "ListCoursePage": {
+        "Buttons": {
+            "loadMore": "Load More"
+        }
+    },
+    "Contact": {
+        "address1": "St. 1 Grain Market",
+        "address2": "Sheikhupura, Pakistan",
+        "followus": "Follow Us",
+        "getInTouch": "Get In Touch",
+        "sendButton": "SEND",
+        "form": {
+            "namePlaceholder": "Name*",
+            "emailPlaceholder": "Email*",
+            "subjectPlaceholder": "Subject*",
+            "messagePlaceholder": "Your Message*"
+        }
+    },
+    "LoginPage": {
+        "login": "Login",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "password",
+        "loginButton": "Login",
+        "facebookLoginButton": "Facebook Login",
+        "createAccountText": "Create an Account?",
+        "signupLink": "Signup"
+    },
+    "SignupPage": {
+        "signup": "Sign Up",
+        "firstNamePlaceholder": "First Name",
+        "lastNamePlaceholder": "Last Name",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "password",
+        "signupButton": "Signup",
+        "alreadyAccount": "Already have an Accrount?",
+        "loginLink": "Login"
+    },
+    "UserCourseViewPage": {
+        "page": "Page",
+        "of": "of",
+        "courseContent": "Course Content",
+        "courseDescription": "Course Description:",
+        "Buttons": {
+            "previousButton": "Previous",
+            "nextButton": "Next"
+        }
+    },
+    "UserCourseRequestPage": {
+        "requestListTitle": "Your Request List",
+        "noDataText": "No Record Found.",
+        "courseTitle": "Course Title",
+        "subject": "Subject",
+        "description": "Description",
+        "status": "Status"
+    },
+    "UserEnrolledCoursesPage": {
+        "enrolledCourses": "Enrolled Courses"
+    },
+    "UserPayPalErrorCancelPage": {
+        "text": "Please Contact Admin. There's an issue while doing payment at PayPal."
+    },
+    "UserPayPalErrorContactPage": {
+        "text": "Please Contact Admin. There's an issue while doing payment at PayPal."
+    },
+    "AdminCourseRequestPage": {
+        "requestList": "Request List",
+        "noDataText": "No Record Found.",
+        "Buttons": {
+            "ok": "Ok",
+            "cancel": "Cancel"
+        },
+        "modalTitle": "Update Request Status",
+        "confirmText": "Are you sure to want to update request of student",
+        "selectLabel": "Select User Course Access Status",
+        "actions": "Actions",
+        "status": "Status",
+        "studentName": "Student Name",
+        "studentEmail": "Student Email",
+        "courseTitle": "Course Title",
+        "subject": "Subject",
+        "description": "Description"
+    },
+    "AdminStudentsPage": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "status": "Status",
+        "actions": "Actions",
+        "deleteModalTitle": "Delete Confirm",
+        "sureText": "Are you sure to want to delete",
+        "userList": "Users List",
+        "noDataText": "No Record Found.",
+        "Buttons": {
+            "delete": "Delete",
+            "ok": "Ok",
+            "cancel": "Cancel"
+        }
+    },
+    "AdminCreateStudentPage": {
+        "createStudent": "Create Student",
+        "form": {
+            "firstName":"First Name",
+            "firstNamePlaceholder": "First Name",
+            "lastName":"Last Name",
+            "lastNamePlaceholder": "Last Name",
+            "email": "Email",
+            "emailPlaceholder": "Email",
+            "password": "password",
+            "passwordPlaceholder": "password",
+            "submit": "Submit"
+        },
+        "Buttons": {
+            "submit": "Submit"
+        }
+    },
+    "AdminListCoursePage": {
+        "deleteModalTitle":"Delete Confirm",
+        "sureText":"Are you sure to want to delete",
+        "courseList": "Course List",
+        "noDataText": "No Record Found.",
+        "image": "Image",
+        "instructorName": "Instructor Name",
+        "title": "Title",
+        "price": "Price",
+        "actions": "Actions",
+        "Buttons": {
+            "ok": "Ok",
+            "cancel": "Cancel",
+            "edit": "Edit",
+            "details": "Details",
+            "delete": "Delete"
+        }
+    },
+    "AdminEditCoursePage": {
+        "editCourse": "Edit Course",
+        "form": {
+            "instructorName":"Course Instructor Name",
+            "instructorNamePlaceholder": "Course Instructor Name",
+            "courseTitle":"Course Title",
+            "courseTitlePlaceholder": "Course Title",
+            "courseIntroduction": "Course Introduction",
+            "coursePrice": "Course Price",
+            "coursePricePlaceholder": "Course Price"
+        },
+        "Buttons": {
+            "submit": "Submit"
+        }
+    },
+    "AdminCreateCoursePage": {
+        "createCourse": "Create Course",
+        "form": {
+            "instructorName":"Course Instructor Name",
+            "instructorNamePlaceholder": "Course Instructor Name",
+            "courseTitle":"Course Title",
+            "courseTitlePlaceholder": "Course Title",
+            "courseIntroduction": "Course Introduction",
+            "coursePrice": "Course Price",
+            "coursePricePlaceholder": "Course Price"
+        },
+        "Buttons": {
+            "submit": "Submit"
+        }
+    },
+    "AdminCreateQuizPage": {
+        "createQuiz": "Create Quiz",
+        "form": {
+            "quizTitle": "Quiz Title",
+            "quizTitlePlaceholder": "Quiz Title",
+            "quizTotalMarks": "Quiz Total Marks",
+            "quizTotalMarksPlaceholder": "Quiz Total Marks",
+            "submissionDate": "Submission Date",
+            "question": "Question",
+            "option1": "Option 1",
+            "option2": "Option 2",
+            "option3": "Option 3",
+            "option4": "Option 4",
+            "correctOption": "Correct Option"
+        },
+        "Buttons": {
+            "addNewQuestion": "Add New Question",
+            "plusAddNewQuestion": "+ Add New Question",
+            "submit": "Submit"
+        }
+    },
+    "AdminListQuizPage": {
+        "listQuiz": "Quiz List",
+        "deleteModalTitle":"Delete Confirm",
+        "sureText": "Are you sure to want to delete",
+        "title": "Title", 
+        "totalMarks": "Total Marks",
+        "submissionDate": "Submission Date",
+        "actions": "Actions",
+        "Buttons": {
+            "ok":"Ok",
+            "cancel":"Cancel",
+            "delete":"Delete"
+        }
+    },
+    "AdminCourseDetailPage": {
+        "deleteModalTitle":"Delete Confirm",
+        "sureText":"Are you sure to want to delete",
+        "deleteConfirmSectionTitle": "Delete Confirm Section",
+        "sureTextDeleteConfirmSection": "Are you sure to want to delete",
+        "videoModalTitle": "Lecture",
+        "editCourseSectionModalTitle": "Edit Course Section Title",
+        "editLectureModalTitle": "Edit Lecture",
+        "introduction": "Introduction",
+        "createNewCourseSection": "Create New Course Section",
+        "sectionDescription": "Section Description:",
+        "form": {
+            "videoTitle": "Lecture Video Title",
+            "videoTitlePlaceholder": "Lecture Video Title",
+            "markFree": "Mark Free",
+            "pdfTitle": "PDF Title",
+            "pdfTitlePlaceholder": "Lecture pdf title",
+            "courseTitle":"Course Title",
+            "courseTitlePlaceholder":"Course Title",
+            "courseDescription":"Course Section Description"
+        },
+        "Buttons":{
+            "ok":"Ok",
+            "cancel":"Cancel",
+            "submit":"Submit",
+            "save": "Save",
+            "addLecture": "Add Lecture",
+            "edit": "Edit",
+            "delete": "Delete"
+        }
+    }
+}
